@@ -140,8 +140,8 @@ body{
     align-items: center;
     justify-content: left;
     padding-left: 5px;
-    content: "5%";
-    width: 5%;
+    content: "35%";
+    width: 35%;
     background: linear-gradient(to right, var(--progressbar-color1), var(--progressbar-color2));
     border-radius: 20px;
 }
